@@ -1,0 +1,12 @@
+Specs for word instance app
+
+1 -- Check for one letter (a) in a one letter string. (a) return 1
+	This will check for one 
+
+2 -- check for one letter (a) in a two letter string. (ab) return 1
+
+3 -- check for one letter (a) in a two letter string. (aa) return 2
+
+4 -- check for a short string (the) in a long string (the count of monte cristo) return 1
+
+5 -- check for a short string (the) in a long string (the cat in the hat) return 2
